@@ -1,0 +1,21 @@
+<snippet>
+	<content>
+<![CDATA[
+    <figure>
+        <title> </title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+                <para>
+                    
+                </para>
+            </textobject>
+        </mediaobject>
+    </figure>
+	]]>
+	</content>
+	<tabTrigger>image</tabTrigger>
+	<scope>text.xml</scope>
+</snippet>
