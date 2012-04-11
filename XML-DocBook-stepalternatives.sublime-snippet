@@ -1,0 +1,20 @@
+<snippet>
+	<content>
+<![CDATA[<stepalternatives>
+        <step>
+                <title>REPLACE</title>
+                <para>
+                        REPLACE
+                </para>
+        </step>
+        <step>
+                <title></title>
+                <para>
+                        REPLACE
+                </para>
+        </step>
+</stepalternatives>]]>
+	</content>
+	<tabTrigger>stepalt</tabTrigger>
+	<scope>text.xml</scope>
+</snippet>

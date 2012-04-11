@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+<![CDATA[<step>
+        <title>REPLACE</title>
+        <para>
+                REPLACE
+        </para>
+</step>]]>
+	</content>
+	<tabTrigger>step</tabTrigger>
+	<scope>text.xml</scope>
+</snippet>
