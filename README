@@ -1,1 +1,23 @@
-This is a test readme.
+A collection of snippets for Sublime Text 2.
+
+Snippets are a content insertion feature of text editors such as Sublime Text 2 or TextMate. A Snippet allows you to create libraries and templates of commonly used code or other character-based to insert into your project with a trigger word or alias. 
+
+Sublime Text 2 allows you to trigger an alias with the tab key. The following example shows the "hello" alias used to insert a string of text. 
+
+<snippet>
+	<content>
+	HelloWorld! I am a snippet!
+	</content>
+	<tabTrigger>hello</tabTrigger>
+	<scope>text.xml</scope>
+</snippet>
+
+This snippet file is saved in the Packages folder in your system Library. The Packages contain subdirectories for each code type, allowing you to create snippets specific to XML, C# or other projects. 
+
+The above example uses the <scope> element to define that that trigger will only work on a file saved with the XML file suffix. This allows you to customise your libraries by language or even project, where a dummy file suffix for a text file might correspond to a scope definition to limit replacement triggers to that project alone. 
+
+Sublime Text 2
+Link: http://www.sublimetext.com/2
+
+DocBook XML:
+http://www.docbook.org/tdg/en/html/part2.html
