@@ -37,7 +37,7 @@ Snippets can be installed by saving the snippet file to the Packages directory i
 
 ### Using Snippets ###
 
-With the snippet installed, you 
+Once installed, using snippets is easy. 
 
 1. Save your working file as a .XML file type. 
 2. Type the trigger word specified in the 'tabTrigger' element and hit the TAB key.
