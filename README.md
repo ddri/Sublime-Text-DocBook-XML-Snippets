@@ -34,7 +34,19 @@ Snippets can be installed by saving the snippet file to the Packages directory i
 
 --------------------
 
-### Make your own Snippets###
+
+### Using Snippets ###
+
+With the snippet installed, you 
+
+1. Save your working file as a .XML file type. 
+2. Type the trigger word specified in the 'tabTrigger' element and hit the TAB key.
+3. Spend more time coding better, and less time typing repetitive code elements!
+
+
+--------------------
+
+### Make Your Own Snippets###
 
 You can create your own snippets by saving a snippet profile file to the respective language folder under the Packages directory. Template DocBook XML snippets have been included in the repository for you to use as a starting point. The format appears as follows.
 
@@ -68,7 +80,7 @@ Save the file with the file suffix of sublime.snippet. For example [yoursnippet]
 
 ### Known Issues ###
 
-#### Finding Library ####
+#### Finding Your User Library ####
 
 OS X hides the User level Library. You can show all hidden files by running the following string in a Terminal session.
 
@@ -95,7 +107,7 @@ There are other methods to temporarily or persistently display the Library folde
 
 ### Feedback ###
 
-Take it, use it, change it. Let me know what you come up with. 
+Use them, change them, share them.
 
 
 --------------------
