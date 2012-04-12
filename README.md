@@ -39,7 +39,7 @@ Snippets can be installed by saving the snippet file to the Packages directory i
 
 Once installed, using snippets is easy. 
 
-1. Save your working file as a .XML file type. 
+1. Save your working file as an XML file type. Only the yourfilename.xml suffix matters. 
 2. Type the trigger word specified in the 'tabTrigger' element and hit the TAB key.
 3. Spend more time coding better, and less time typing repetitive code elements!
 
