@@ -1,9 +1,11 @@
 <snippet>
 	<content>
 <![CDATA[
-
+<para>
+	REPLACE
+</para>
 	]]>
 	</content>
-	<tabTrigger>template</tabTrigger>
+	<tabTrigger>para</tabTrigger>
 	<scope>text.xml</scope>
 </snippet>
