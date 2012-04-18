@@ -3,13 +3,8 @@
 
 
 ### Template Elements ###
-section
- - skynet concept
- - skynet task
- - skynet reference
 formalpara
-example
-
+procedure 
 
 ### Single Elements ###
 
@@ -17,24 +12,17 @@ programlisting
 table components
 - header
 - body
-- row
-	rowtwo
-	rowthree
-	rowfour
+
 listitem
-list turn into itemizedlist
 guisubmenu
 guimenuitem
 guimenu
-guibutton
 sgmltag
 orderedlist
 mousebutton
 simplelist
-systemitem
-term
-varlistentry
-variablelist
+
+
 
 
 ######## DONE #######
@@ -42,9 +30,14 @@ variablelist
 
 ### Template Elements ###
 dummy
+example
 image
-list
+itemizedlist
 prereq
+row
+skynettask
+skynetconcept
+skynetreference
 step
 stepalteratives
 stepoptional
@@ -54,15 +47,21 @@ table-three-column
 table-two-column
 template-light
 template
+variablelist
+varlistentry
+
 
 ### Single Elements ###
 code
 command
+guibutton
 literal
 para
 term
+textobject
 title
 section
+systemitem
 
 
 
