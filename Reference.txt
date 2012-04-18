@@ -1,0 +1,53 @@
+
+######## TO DO #######
+
+### Template Elements ###
+section
+formalpara
+example
+guimenuitem
+
+### Single Line Elements ###
+
+ 
+cdata
+programlisting
+table components
+- header
+- body
+- row
+		rowtwo
+		rowthree
+		rowfour
+listitem
+
+list turn into itemizedlist
+
+guisubmenu
+guimenuitem
+guimenu
+guibutton
+code
+literal
+sgmltag
+orderedlist
+mousebutton
+simplelist
+systemitem
+term
+varlistentry
+variablelist
+
+
+######## DONE #######
+
+
+### TEMPLATE ELEMENTS ###
+
+
+
+### Single Line Elements ###
+command
+
+
+

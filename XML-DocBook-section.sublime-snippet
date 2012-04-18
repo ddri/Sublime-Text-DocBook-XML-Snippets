@@ -1,0 +1,10 @@
+<snippet>
+
+	<content>
+<![CDATA[<section>
+
+</section>]]>
+	</content>
+	<tabTrigger>section</tabTrigger>
+	<scope>text.xml</scope>
+</snippet>
