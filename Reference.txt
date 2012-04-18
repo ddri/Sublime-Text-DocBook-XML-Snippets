@@ -3,26 +3,20 @@
 
 
 ### Template Elements ###
-formalpara
 procedure 
+summary
 
 ### Single Elements ###
-
-programlisting
-table components
-- header
-- body
-
-listitem
 guisubmenu
 guimenuitem
 guimenu
 sgmltag
 orderedlist
 mousebutton
-simplelist
-
-
+simplelist (3 cols)
+-inline
+-vert
+-horiz
 
 
 ######## DONE #######
@@ -31,8 +25,10 @@ simplelist
 ### Template Elements ###
 dummy
 example
+formalpara
 image
 itemizedlist
+listitem
 prereq
 row
 skynettask
@@ -57,8 +53,11 @@ command
 guibutton
 literal
 para
+programlisting
+tbody
 term
 textobject
+thead
 title
 section
 systemitem
