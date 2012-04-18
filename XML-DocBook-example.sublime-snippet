@@ -1,0 +1,14 @@
+<snippet>
+	<content>
+<![CDATA[
+<example>
+	<title></title>
+	<programlisting>&lt;![CDATA[
+
+]]&gt;
+	</programlisting>
+</example>]]>
+	</content>
+	<tabTrigger>example</tabTrigger>
+	<scope>text.xml</scope>
+</snippet>
