@@ -1,0 +1,19 @@
+<snippet>
+	<content>
+<![CDATA[<itemizedlist>
+    <title></title>
+    <listitem>
+        <para>
+            REPLACE
+        </para>
+    </listitem>
+    <listitem>
+        <para>
+            REPLACE
+        </para>
+    </listitem>
+</itemizedlist>]]>
+	</content>
+	<tabTrigger>itemizedlist</tabTrigger>
+	<scope>text.xml</scope>
+</snippet>

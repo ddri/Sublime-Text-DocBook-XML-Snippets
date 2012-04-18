@@ -1,34 +1,32 @@
 
 ######## TO DO #######
 
+
 ### Template Elements ###
 section
+ - skynet concept
+ - skynet task
+ - skynet reference
 formalpara
 example
-guimenuitem
 
-### Single Line Elements ###
 
- 
-cdata
+### Single Elements ###
+
 programlisting
 table components
 - header
 - body
 - row
-		rowtwo
-		rowthree
-		rowfour
+	rowtwo
+	rowthree
+	rowfour
 listitem
-
 list turn into itemizedlist
-
 guisubmenu
 guimenuitem
 guimenu
 guibutton
-code
-literal
 sgmltag
 orderedlist
 mousebutton
@@ -42,12 +40,29 @@ variablelist
 ######## DONE #######
 
 
-### TEMPLATE ELEMENTS ###
+### Template Elements ###
+dummy
+image
+list
+prereq
+step
+stepalteratives
+stepoptional
+substeps
+table-four-column
+table-three-column
+table-two-column
+template-light
+template
 
-
-
-### Single Line Elements ###
+### Single Elements ###
+code
 command
+literal
+para
+term
+title
+section
 
 
 
