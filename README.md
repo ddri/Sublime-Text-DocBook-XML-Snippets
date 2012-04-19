@@ -2,7 +2,7 @@
 
 ### About Sublime Text 2 ###
 
-[Sublime Text 2](Link: http://www.sublimetext.com/2) is a cross-platform text editor for "code, HTML and prose". It is similar to the popular OS X editor [TextMate](http://macromates.com/).
+Check out [Sublime Text 2](Link: http://www.sublimetext.com/2), the a cross-platform text editor for "code, HTML and prose". It is similar to the popular OS X editor [TextMate](http://macromates.com/).
 
 ### About Snippets ###
 
