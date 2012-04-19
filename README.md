@@ -1,8 +1,12 @@
 ## A collection of DocBook XML snippets for Sublime Text 2. ##
 
+### About Sublime Text 2 ###
+
+[Sublime Text 2](Link: http://www.sublimetext.com/2) is a cross-platform text editor for "code, HTML and prose". It is similar to the popular OS X editor [TextMate](http://macromates.com/).
+
 ### About Snippets ###
 
-Snippets are a content insertion feature of OS X text editors such as [Sublime Text 2](Link: http://www.sublimetext.com/2) or [TextMate](http://macromates.com/). A snippet allows you to create libraries and templates of commonly used code or other character-based content to insert into your project with a trigger word or alias. 
+Snippets are a content insertion feature found in many text editors. A snippet allows you to create libraries and templates of commonly used code or other character-based content to insert into your project with a trigger word or alias. 
 
 The following example shows how simple a snippet is. The 'content' element contains your desired content, and the 'tabTrigger' element contains the text string that will trigger the content replacement. You can use the 'scope' element to limit the snippets to run only on certain file type.
 
@@ -30,6 +34,8 @@ Snippets can be installed by saving the snippet file to the Packages directory i
 
 2. Save the snippet to the XML folder.
 3. That's it!
+
+You can even download all of the snippets from the [zip button on the github repository](https://github.com/ddri/Sublime-Text-DocBook-XML-Snippets/zipball/master). 
 
 
 --------------------
