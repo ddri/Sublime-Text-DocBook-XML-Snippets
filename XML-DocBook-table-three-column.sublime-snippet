@@ -8,54 +8,54 @@
         <colspec colname="c3" colwidth="2*"/>
         <thead>
             <row>
-                <entry>REPLACE</entry>
-                <entry>REPLACE</entry>
-                                    <entry>REPLACE</entry>
+                <entry>${1:ColumnHeading1} </entry>
+                <entry>${2:ColumnHeading2} </entry>
+                                    <entry>${3:ColumnHeading3}</entry>
             </row>
         </thead>
         <tbody>
             <row>
                 <entry>
-                    <literal>REPLACE</literal>
+                    <literal>${4:Column1Field}</literal>
                 </entry>
                 <entry>
-                    REPLACE
+                    ${5:Column2Field}
                 </entry>
                 <entry>
-                    REPLACE
-                </entry>
-            </row>
-            <row>
-                <entry>
-                    <literal>REPLACE</literal>
-                </entry>
-                <entry>
-                    REPLACE
-                </entry>
-                <entry>
-                    REPLACE
+                    ${6:Column3Field}
                 </entry>
             </row>
             <row>
                 <entry>
-                    <literal>REPLACE</literal>
+                    <literal>${7:Column1Field}</literal>
                 </entry>
                 <entry>
-                    REPLACE
+                    ${8:Column2Field}
                 </entry>
                 <entry>
-                    REPLACE
+                    ${9:Column3Field}
                 </entry>
             </row>
             <row>
                 <entry>
-                    <literal>REPLACE</literal>
+                    <literal>${10:Column1Field}</literal>
                 </entry>
                 <entry>
-                    REPLACE
+                    ${11:Column2Field}
                 </entry>
                 <entry>
-                    REPLACE
+                    ${12:Column3Field}
+                </entry>
+            </row>
+            <row>
+                <entry>
+                    <literal>${13:Column1Field}</literal>
+                </entry>
+                <entry>
+                    ${14:Column2Field}
+                </entry>
+                <entry>
+                    ${15:Column3Field}
                 </entry>
             </row>
         </tbody>
