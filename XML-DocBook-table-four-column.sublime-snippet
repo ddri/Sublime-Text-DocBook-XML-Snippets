@@ -1,7 +1,7 @@
 <snippet>
 	<content>
-<![CDATA[<table id="REPLACE">
-    <title>REPLACE</title>
+<![CDATA[<table id="${1:TableID}">
+    <title>${2:TableTitle}</title>
     <tgroup align="left" cols="3" colsep="1" rowsep="1">
         <colspec colname="c1" colwidth="1*"/>
         <colspec colname="c2" colwidth="1*"/>
@@ -9,67 +9,67 @@
         <colspec colname="c4" colwidth="2*"/>            
         <thead>
             <row>
-                <entry>REPLACE</entry>
-                <entry>REPLACE</entry>
-                                    <entry>REPLACE</entry>
-                                    <entry>REPLACE</entry>                                  
+                <entry>${3:ColumnHeading1}</entry>
+                <entry>${4:ColumnHeading2}</entry>
+                <entry>${5:ColumnHeading3}</entry>
+                <entry>${6:ColumnHeading4}</entry>                                  
             </row>
         </thead>
         <tbody>
             <row>
                 <entry>
-                    <literal>REPLACE</literal>
+                    <literal>${7:Column1Field}</literal>
                 </entry>
                 <entry>
-                    REPLACE
+                    ${8:Column2Field}
                 </entry>
                 <entry>
-                    REPLACE
+                    ${9:Column3Field}
                 </entry>
                 <entry>
-                    REPLACE
+                    ${10:Column4Field}
                 </entry>                                        
             </row>
             <row>
                 <entry>
-                    <literal>REPLACE</literal>
+                    <literal>${11:Column1Field}</literal>
                 </entry>
                 <entry>
-                    REPLACE
+                    ${12:Column2Field}
                 </entry>
                 <entry>
-                    REPLACE
+                    ${13:Column3Field}
                 </entry>
                 <entry>
-                    REPLACE
+                    ${14:Column4Field}
                 </entry> 
             </row>
             <row>
                 <entry>
-                    <literal>REPLACE</literal>
+                    <literal>${15:Column1Field}</literal>
                 </entry>
                 <entry>
-                    REPLACE
+                    ${16:Column2Field}
                 </entry>
                 <entry>
-                    REPLACE
+                    ${17:Column3Field}
                 </entry>
                 <entry>
-                    REPLACE
+                    ${18:Column4Field}
                 </entry> 
             </row>
             <row>
                 <entry>
-                    <literal>REPLACE</literal>
+                    <literal>${19:Column1Field}</literal>
                 </entry>
                 <entry>
-                    REPLACE
+                    ${20:Column2Field}
                 </entry>
                 <entry>
-                    REPLACE
+                    ${21:Column3Field}
                 </entry>
                 <entry>
-                    REPLACE
+                    ${22:Column4Field}
                 </entry> 
             </row>
         </tbody>
