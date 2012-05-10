@@ -1,7 +1,7 @@
 <snippet>
 	<content>
 <![CDATA[<programlisting>
-
+	${1:}
 </programlisting>]]>
 	</content>
 	<tabTrigger>programlisting</tabTrigger>

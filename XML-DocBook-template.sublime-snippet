@@ -5,7 +5,7 @@
         <!-- Use CDATA to enclose multiple DocBook XML elements -->
         <!-- Dont indent the content here, or else it will indent in the output -->     
 <![CDATA[
-
+        ${1:}
 	]]>
 	</content>
         <!-- Next is the tab trigger. -->

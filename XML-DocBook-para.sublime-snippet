@@ -2,7 +2,7 @@
 	<content>
 <![CDATA[
 <para>
-	
+	${1:}
 </para>
 	]]>
 	</content>

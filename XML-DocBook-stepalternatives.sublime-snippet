@@ -2,15 +2,15 @@
 	<content>
 <![CDATA[<stepalternatives>
         <step>
-                <title>REPLACE</title>
+                <title>${1:Title1}</title>
                 <para>
-                        REPLACE
+                        ${2:ParaText1}
                 </para>
         </step>
         <step>
-                <title></title>
+                <title>${3:Title2}</title>
                 <para>
-                        REPLACE
+                        ${4:ParaText2}
                 </para>
         </step>
 </stepalternatives>]]>

@@ -3,9 +3,8 @@
 <![CDATA[
 <example>
 	<title></title>
-	<programlisting>&lt;![CDATA[
-
-]]&gt;
+	<programlisting>
+	${1:}
 	</programlisting>
 </example>]]>
 	</content>

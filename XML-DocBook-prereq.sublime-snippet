@@ -5,7 +5,7 @@
         <!-- <listitem>
             <para/>
         </listitem> -->
-        <!-- InjectListItems:  -->
+        <!-- InjectListItems:${1:}  -->
     </itemizedlist>]]>
 	</content>
 	<tabTrigger>prereq</tabTrigger>

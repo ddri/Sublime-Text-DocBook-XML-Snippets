@@ -2,10 +2,10 @@
 	<content>
 <![CDATA[<menuchoice>
 	<guimenu>
-		
+		${1:GuiMenu}
 	</guimenu>
 	<guimenuitem>
-		
+		${1:GuiMenuItem}
 	</guimenuitem>
 </menuchoice>]]>
 	</content>

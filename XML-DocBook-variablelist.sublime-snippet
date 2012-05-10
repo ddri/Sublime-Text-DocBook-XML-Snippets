@@ -1,16 +1,16 @@
 <snippet>
 	<content>
 <![CDATA[<variablelist>
-	<title></title>
+	<title>${1:Title}</title>
 	<varlistentry>
 		<term>
 			<filename>
-
+				${2:Term}
 			</filename>
 		</term>
 		<listitem>
 			<para>
-
+				${3:ParaText}
 			</para>
 		</listitem>
 	</varlistentry>

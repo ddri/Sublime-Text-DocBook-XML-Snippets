@@ -8,7 +8,7 @@
         </imageobject>
         <textobject>
             <para>
-                REPLACE
+                ${1:}
             </para>
         </textobject>
     </mediaobject>

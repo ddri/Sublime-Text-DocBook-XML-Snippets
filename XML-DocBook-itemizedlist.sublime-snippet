@@ -1,15 +1,15 @@
 <snippet>
 	<content>
 <![CDATA[<itemizedlist>
-    <title></title>
+    <title>${1:Title}</title>
     <listitem>
         <para>
-            
+            ${2:ListItem1}
         </para>
     </listitem>
     <listitem>
         <para>
-            
+            ${3:ListItem2}
         </para>
     </listitem>
 </itemizedlist>]]>

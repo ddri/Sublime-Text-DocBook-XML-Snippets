@@ -3,7 +3,7 @@
 <![CDATA[<formalpara>
 	<title><title>
 		<para>
-			
+		${1:}
 		</para>
 </formalpara>]]>
 	</content>

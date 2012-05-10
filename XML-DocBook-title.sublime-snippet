@@ -1,6 +1,6 @@
 <snippet>
 	<content>
-<![CDATA[<title>REPLACE</title>]]>
+<![CDATA[<title>${1:}</title>]]>
 	</content>
 	<tabTrigger>title</tabTrigger>
 	<scope>text.xml</scope>

@@ -1,6 +1,6 @@
 <snippet>
 	<content>
-<![CDATA[<textobject></textobject>]]>
+<![CDATA[<textobject>${1:}</textobject>]]>
 	</content>
 	<tabTrigger>textobject</tabTrigger>
 	<scope>text.xml</scope>

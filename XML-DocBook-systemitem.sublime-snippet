@@ -1,6 +1,6 @@
 <snippet>
 	<content>
-<![CDATA[<systemitem></systemitem>]]>
+<![CDATA[<systemitem>${1:}</systemitem>]]>
 	</content>
 	<tabTrigger>systemitem</tabTrigger>
 	<scope>text.xml</scope>

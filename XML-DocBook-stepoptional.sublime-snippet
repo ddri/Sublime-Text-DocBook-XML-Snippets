@@ -1,9 +1,9 @@
 <snippet>
 	<content>
 <![CDATA[<step performance="optional">
-        <title>REPLACE</title>
+        <title>${1:Title}</title>
         <para>
-                REPLACE
+                ${2:ParaText}
         </para>
 </step>]]>
 	</content>
