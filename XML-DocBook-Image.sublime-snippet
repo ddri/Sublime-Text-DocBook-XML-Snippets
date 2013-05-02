@@ -11,6 +11,9 @@
                 ${1:}
             </para>
         </textobject>
+	<caption>
+		<para>${2:}</para>
+	</caption>
     </mediaobject>
 </figure>]]>
 	</content>
