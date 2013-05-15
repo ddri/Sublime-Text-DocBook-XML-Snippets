@@ -26,7 +26,9 @@ With this example snippet installed, you could insert the string 'HelloWorld! I 
 
 ### Install Snippets ###
 
-Snippets can be installed by saving the snippet file to the Packages directory in your user Library. The Packages folder contains subdirectories for each programming language. This allows you to create libraries specific to XML, C#, etc. The folder is located per the following filepath.
+Snippets can be installed by saving the snippet file to the Packages directory in your user Library. The Packages folder contains subdirectories for each programming language. This allows you to create libraries specific to XML, C#, etc. 
+
+For OS X, the folder is located per the following filepath.
 
 1. Locate the Sublime Text folder in your user Library file.
 
