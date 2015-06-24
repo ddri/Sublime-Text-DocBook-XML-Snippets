@@ -1,8 +1,8 @@
-## A collection of DocBook XML snippets for Sublime Text 2. ##
+## A collection of DocBook XML snippets for Sublime Text 2 and 3. ##
 
-### About Sublime Text 2 ###
+### About Sublime Text 2 and 3 ###
 
-Check out [Sublime Text 2](http://www.sublimetext.com/2), the a cross-platform text editor for "code, HTML and prose". It is similar to the popular OS X editor [TextMate](http://macromates.com/).
+Check out [Sublime Text](http://www.sublimetext.com/), the cross-platform text editor for "code, HTML and prose". It is similar to the popular OS X editor [TextMate](http://macromates.com/).
 
 ### About Snippets ###
 
@@ -115,7 +115,11 @@ There are other methods to temporarily or persistently display the Library folde
 
 ### Feedback ###
 
-Use them, change them, share them.
+Use them, change them, share them. Throw a pull request if you have some editions. I've included snippets in the [Corilla](http://www.corilla.co) opens ource documentation project. 
+
+### Other Editors ###
+
+Snippets exist in other editors. Drop me a line if you're rocking DocBook XML in Atom. I'll take a look at that in future iterations. Likewise I'm interested in the [Asciidoctor](http://asciidoctor.org/) project. 
 
 
 --------------------
@@ -125,3 +129,5 @@ Use them, change them, share them.
 [Sublime Text 2](Link: http://www.sublimetext.com/2)
 
 [DocBook XML](http://www.docbook.org/tdg/en/html/part2.html) 
+
+[Corilla](http://www.corilla.co)
