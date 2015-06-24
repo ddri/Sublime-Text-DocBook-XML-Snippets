@@ -126,7 +126,7 @@ Snippets exist in other editors. Drop me a line if you're rocking DocBook XML in
 
 ### Links ###
 
-[Sublime Text 2](Link: http://www.sublimetext.com/2)
+[Sublime Text 2](http://www.sublimetext.com/)
 
 [DocBook XML](http://www.docbook.org/tdg/en/html/part2.html) 
 
