@@ -1,10 +1,14 @@
-## A collection of DocBook XML snippets for Sublime Text 2 and 3. ##
+## A collection of DocBook XML snippets for Sublime Text 2 and 3
 
-### About Sublime Text 2 and 3 ###
+### What does this do?
+
+This repo contains snippets that help automate syntax generation for technical writers and developers writing content in DocBook XML. They are specifically designed for a text editor called Sublime Text, but are compatible with others that use snippets. Snippets themselves are strings of code or syntax that can be triggered in the editor - saving you from writing them out manually. Life's too short for writing complicated markup languages by hand.
+
+### About Sublime Text 2 and 3
 
 Check out [Sublime Text](http://www.sublimetext.com/), the cross-platform text editor for "code, HTML and prose". It is similar to the popular OS X editor [TextMate](http://macromates.com/).
 
-### About Snippets ###
+### About Snippets
 
 Snippets are a content insertion feature found in many text editors. A snippet allows you to create libraries and templates of commonly used code or other character-based content to insert into your project with a trigger word or alias. 
 
@@ -24,7 +28,7 @@ With this example snippet installed, you could insert the string 'HelloWorld! I 
 
 --------------------
 
-### Install Snippets ###
+### Install Snippets
 
 Snippets can be installed by saving the snippet file to the Packages directory in your user Library. The Packages folder contains subdirectories for each programming language. This allows you to create libraries specific to XML, C#, etc. 
 
@@ -43,7 +47,7 @@ You can even download all of the snippets from the [zip button on the github rep
 --------------------
 
 
-### Using Snippets ###
+### Using Snippets
 
 Once installed, using snippets is easy. 
 
@@ -54,7 +58,7 @@ Once installed, using snippets is easy.
 
 --------------------
 
-### Make Your Own Snippets###
+### Make Your Own Snippets
 
 You can create your own snippets by saving a snippet profile file to the respective language folder under the Packages directory. Template DocBook XML snippets have been included in the repository for you to use as a starting point. The format appears as follows.
 
@@ -86,9 +90,9 @@ Save the file with the file suffix of sublime.snippet. For example [yoursnippet]
 
 --------------------
 
-### Known Issues ###
+### Known Issues
 
-#### Finding Your User Library ####
+#### Finding Your User Library
 
 OS X hides the User level Library. You can show all hidden files by running the following string in a Terminal session.
 
@@ -113,18 +117,18 @@ There are other methods to temporarily or persistently display the Library folde
 
 --------------------
 
-### Feedback ###
+### Feedback
 
 Use them, change them, share them. Throw a pull request if you have some editions. I've included snippets in the [Corilla](http://www.corilla.com) opens ource documentation project. 
 
-### Other Editors ###
+### Other Editors
 
 Snippets exist in other editors. Drop me a line if you're rocking DocBook XML in Atom. I'll take a look at that in future iterations. Likewise I'm interested in the [Asciidoctor](http://asciidoctor.org/) project. 
 
 
 --------------------
 
-### Links ###
+### Links
 
 [Sublime Text 2](http://www.sublimetext.com/)
 
